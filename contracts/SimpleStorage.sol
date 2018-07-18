@@ -11,7 +11,7 @@ contract SimpleStorage {
     return ipfsHash;
   }
 
-  function SimpleStorage(){
-  	set('QmNXRFREw7waGtKW9uBUze3PkR9E12HeeAQSkZQSiFUJqo');
-  }
+  // function SimpleStorage(){
+  // 	set('QmNXRFREw7waGtKW9uBUze3PkR9E12HeeAQSkZQSiFUJqo');
+  // }
 }
